@@ -11,7 +11,7 @@ metadata:
     # nginx.ingress.kubernetes.io/enable-cors: "true"
 spec:
   rules:
-    - host: k8s.jvm.my.id
+    - host: k8s.chordguitarid.com
       http:
         paths:
           - path: /
